@@ -1,0 +1,4 @@
+1,choco,10,100
+2,bannana,12,120
+3,candy,1,1000
+4,icecream,20,50
